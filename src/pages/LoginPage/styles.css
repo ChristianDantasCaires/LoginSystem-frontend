@@ -1,0 +1,16 @@
+#login{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    height: 100vh;
+    align-items: center;
+}
+
+.title{
+    
+}
+
+label{
+    display: block;
+    text-align: center;
+}
